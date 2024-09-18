@@ -1,0 +1,11 @@
+[33mcommit 9837b0bfbb37b7fe0fc14b7c3b6944ae5d9bd152[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Linero <vladyshalevchuk@gmail.com>
+Date:   Wed Sep 18 10:55:36 2024 -0600
+
+    description of commit
+
+[33mcommit 28b73aab9eaa979767afcb0140f8d0493461a39b[m
+Author: Linero <vladyshalevchuk@gmail.com>
+Date:   Tue Sep 17 20:32:52 2024 -0600
+
+    Initialize project using Create React App
